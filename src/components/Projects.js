@@ -80,10 +80,10 @@ export const Projects = () => {
                       </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="section">
-                      <p>Hi I am Abelrahman Ali , I am a web developer , logo Designer and UX/UI Designer</p>
+                      <p>Hi I am Abdelrahman Ali , I am a web developer , logo Designer and UX/UI Designer</p>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
-                    <p>Hi I am Abelrahman Ali , I am a web developer , logo Designer and UX/UI Designer</p>
+                    <p>Hi I am Abdelrahman Ali , I am a web developer , logo Designer and UX/UI Designer</p>
                     </Tab.Pane>
                   </Tab.Content>
                 </Tab.Container>
